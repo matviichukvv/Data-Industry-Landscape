@@ -1,1 +1,3 @@
 # Data-Industry-Landscape
+
+This dashboard provides a snapshot of the data industry, based on responses from an online survey with 630 participants. Key insights include average salary by job title (highlighting roles like Data Scientist and Data Engineer), preferred programming languages (such as Python and R), and geographic distribution, with most participants from the United States and India. It also captures metrics on job satisfaction, including happiness with work-life balance and salary, and perceived difficulty of entering the data field. This overview offers a comprehensive look at current trends and challenges in the data industry.
